@@ -1,4 +1,4 @@
-package mycompany.app;
+package mycompany.maven_jenkins_pipeline;
 
 /**
  * Hello world!

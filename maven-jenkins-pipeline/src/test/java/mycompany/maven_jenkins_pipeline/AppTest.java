@@ -1,4 +1,4 @@
-package mycompany.app;
+package mycompany.maven_jenkins_pipeline;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
